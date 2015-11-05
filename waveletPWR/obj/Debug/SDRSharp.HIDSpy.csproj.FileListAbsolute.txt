@@ -1,0 +1,10 @@
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\HIDSpy\bin\Debug\SDRSharp.HIDSpy.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\HIDSpy\bin\Debug\SDRSharp.HIDSpy.pdb
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\HIDSpy\bin\Debug\SDRSharp.Common.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\HIDSpy\bin\Debug\SDRSharp.PanView.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\HIDSpy\bin\Debug\SDRSharp.Radio.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\HIDSpy\obj\Debug\SDRSharp.HIDSpy.csprojResolveAssemblyReference.cache
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\HIDSpy\obj\Debug\SDRSharp.HIDSpy.csproj.GenerateResource.Cache
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\HIDSpy\obj\Debug\SDRSharp.HIDSpy.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\HIDSpy\obj\Debug\SDRSharp.HIDSpy.pdb
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\HIDSpy\obj\Debug\SDRSharp.HIDSpy.ZoomPanel.resources

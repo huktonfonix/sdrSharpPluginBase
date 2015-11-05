@@ -1,0 +1,1 @@
+<add key="waveletPWR" value="SDRSharp.waveletPWR.waveletPWRPlugin,SDRSharp.waveletPWR" />

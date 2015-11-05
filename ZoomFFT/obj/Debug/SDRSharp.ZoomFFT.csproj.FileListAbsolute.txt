@@ -1,0 +1,10 @@
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\ZoomFFT\obj\Debug\SDRSharp.ZoomFFT.csprojResolveAssemblyReference.cache
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\ZoomFFT\obj\Debug\SDRSharp.ZoomFFT.ZoomPanel.resources
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\ZoomFFT\obj\Debug\SDRSharp.ZoomFFT.csproj.GenerateResource.Cache
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\ZoomFFT\bin\Debug\SDRSharp.ZoomFFT.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\ZoomFFT\bin\Debug\SDRSharp.ZoomFFT.pdb
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\ZoomFFT\bin\Debug\SDRSharp.Common.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\ZoomFFT\bin\Debug\SDRSharp.PanView.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\ZoomFFT\bin\Debug\SDRSharp.Radio.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\ZoomFFT\obj\Debug\SDRSharp.ZoomFFT.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\ZoomFFT\obj\Debug\SDRSharp.ZoomFFT.pdb

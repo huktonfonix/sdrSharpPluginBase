@@ -1,0 +1,15 @@
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletPWR\bin\Debug\SDRSharp.waveletPWR.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletPWR\bin\Debug\SDRSharp.waveletPWR.pdb
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletPWR\bin\Debug\SDRSharp.Common.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletPWR\bin\Debug\SDRSharp.PanView.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletPWR\bin\Debug\SDRSharp.Radio.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletPWR\obj\Debug\SDRSharp.waveletPWR.csprojResolveAssemblyReference.cache
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletPWR\obj\Debug\SDRSharp.waveletPWR.waveletPWRPanel.resources
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletPWR\obj\Debug\SDRSharp.waveletPWR.csproj.GenerateResource.Cache
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletPWR\obj\Debug\SDRSharp.waveletPWR.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\SDRDEV\waveletPWR\obj\Debug\SDRSharp.waveletPWR.pdb
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\sdrBase\waveletPWR\obj\Debug\SDRSharp.waveletPWR.csprojResolveAssemblyReference.cache
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\sdrBase\waveletPWR\obj\Debug\SDRSharp.waveletPWR.waveletPWRPanel.resources
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\sdrBase\waveletPWR\obj\Debug\SDRSharp.waveletPWR.csproj.GenerateResource.Cache
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\sdrBase\waveletPWR\obj\Debug\SDRSharp.waveletPWR.dll
+C:\Users\jeffA\Documents\SharpDevelop Projects\sdrdev\sdrBase\waveletPWR\obj\Debug\SDRSharp.waveletPWR.pdb
