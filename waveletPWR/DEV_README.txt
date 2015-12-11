@@ -17,7 +17,8 @@ steps to getting your plugin development to work in SharpDevelop.
 11. copy the block of propertygroups into SDRSharp.Radio.csproj
 12. copy the block of propertygroups into SDRSharp.Panview.csproj
 13. go to the properties directory inside your project and open AssemblyInfo.cs.  Edit to reflect new project name.
-14. set compiling option to "allow unsafe code"
-15. now build the project
-16. go to /bin/debug/ and copy the DLL into your sdr# folder where the other DLLs reside.  Edit "plugins" XML file and add your plugin.
-17. start SDR# and the pluging should appear.  If you've made a mistake in assembling the DLL, you will get an error.
+14. copy common.dll, radio.dll and panview.dll to your dll folder and add those resources to your SharpDevelop project.  DO NOT RECOMPILE these files.  Source code for REAL and IQ interfaces was not included in the common trunk and you will lose the ability to use the interfaces if you recompile (creates new DLLs).  Just copy the ones that were included in the latest version of SDR# you're using.
+15. set compiling option to "allow unsafe code"
+16. now build the project
+17. go to /bin/debug/ and copy the DLL into your sdr# folder where the other DLLs reside.  Edit "plugins" XML file and add your plugin.
+18. start SDR# and the pluging should appear.  If you've made a mistake in assembling the DLL, you will get an error.
