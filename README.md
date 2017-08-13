@@ -19,4 +19,4 @@ Steps for getting a SDR# plugin to compile using SharpDevelop:
 15. create ./bin/debug folders in your radio, common and panview folders; and then go to your SDR# install and copy SDRSharp.radio.dll, SDRsharp.panview.dll and SDRSharp.common.dll into them. DO NOT COMPILE radio using the project file. (a couple of interfaces are missing in the radio source code and compiling a fresh DLL won't work, so just copy them from a working install.) 
 16. now build the project
 17. go to /bin/debug/ and copy the DLL into your sdr# folder where the other DLLs reside. Edit "plugins" XML file and add your plugin.
-18. start SDR# and the pluging should appear. If you've made a mistake in assembling the DLL, you will get an error. however, the error will be fairly easy to track to the problem. took me about 2 hours to get it right.
+18. start SDR# and the plugin should appear. If you've made a mistake in assembling the DLL, you will get an error. however, the error will be fairly easy to track to the problem. took me about 2 hours to get it right.
